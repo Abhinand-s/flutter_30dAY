@@ -1,4 +1,4 @@
-import 'package:day3/day3.dart';
+import 'package:const_vs_final/const_vs_final.dart';
 import 'package:test/test.dart';
 
 void main() {
